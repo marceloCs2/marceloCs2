@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou cursando faculdade de Sistemas de informação;
 - 💻 Tenho muito interesse em algumas tecnologias como : Python, mysql,JavaScript e afins;
-- 💬 Atualmente estou me aprofundadno em python e sql;
+- 💬 Atualmente estou me aprofundando em python e sql;
 
 
 <div align="center">
