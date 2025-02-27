@@ -6,14 +6,7 @@
 - 💬 Atualmente estou me aprofundando em python e sql;
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marceloCs2&show_icons=true&theme=tokyonight&card_width=300" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloCs2&layout=compact&langs_count=8&card_width=300&show_icons=true&theme=tokyonight" />
-</a>
-</div>
+
 <div align="center"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
