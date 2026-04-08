@@ -9,7 +9,6 @@ Acredito que código é o meio, mas o dado é o que direciona o sucesso de um ne
 
 📊 Atualmente explorando: 🐍Python(🐼Pandas/📈Matplotlib/🔢Numpy), 🐬SQL, 📊Tableau .
 
-🛠️ Background técnico: [Sua experiência anterior, ex: Desenvolvimento web, análise de dados].
 
 💡 Buscando aplicar soluções inovadoras através de dados para resolver problemas reais de mercado.
 
