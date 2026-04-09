@@ -67,6 +67,26 @@ Acredito que código é o meio, mas o dado é o que direciona o sucesso de um ne
      align="middle"
      />
   &nbsp;&nbsp;
+    <img
+     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg"
+     width="65"
+     alt="TS"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+   <img
+     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"
+     width="65"
+     alt="react"
+     align="middle"
+     />
+   <img
+     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg"
+     width="65"
+     alt="JS"
+     align="middle"
+     />
+  &nbsp;&nbsp;
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
      width="50"
